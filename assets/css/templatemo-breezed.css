@@ -817,8 +817,8 @@ banner
 
 /* ==== Slider Style === */
 .Modern-Slider .item .img-fill{
-  height:95vh;
-  background:#000;
+  height:70vh;
+  background:rgb(255, 255, 255);
 }
 
 .Modern-Slider .item .info > div{
